@@ -59,7 +59,7 @@
 
 // export default Modal;
 
-import React from 'react';
+import * as React from 'react';
 
 interface ModalProps {
   isOpen: boolean;
